@@ -2,6 +2,12 @@
 
 A sophisticated computer vision system that monitors Personal Protective Equipment (PPE) compliance in real-time using advanced YOLO models and intelligent tracking algorithms.
 
+## 🎬 Demo
+
+![PPE Detection Demo](output.gif)
+
+*Real-time PPE detection in action - tracking workers and monitoring helmet & vest compliance with sequential ID assignment*
+
 ## 🎯 Overview
 
 The Workplace Safety Monitor is designed to enhance workplace safety by automatically detecting people and their required safety equipment (helmets and safety vests) in video streams. The system uses state-of-the-art computer vision techniques to provide accurate, real-time monitoring with minimal false positives.
