@@ -1,0 +1,13 @@
+# Core dependencies for Workplace Safety Monitor
+opencv-python>=4.8.0
+numpy>=1.21.0
+
+# Optional dependencies for advanced YOLO models
+ultralytics>=8.0.0
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Additional dependencies that may be needed
+pathlib2>=2.3.0; python_version < "3.4"
+dataclasses>=0.6; python_version < "3.7"
+typing-extensions>=3.7.4; python_version < "3.8"
